@@ -4,8 +4,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Home - Software Freedom Day | FreeGeek Chicago</title>
 
-        <link rel="stylesheet" type="text/css" href="static/2014/css/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="static/2014/css/style.css">
+        <link rel="stylesheet" type="text/css" href="{{ site.url }}/static/2014/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="{{ site.url }}/static/2014/css/style.css">
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -48,7 +48,7 @@
                         <li><a href="#"><button class="btn btn-sfd">Schedule</button></a></li>
                         <li><a href="#"><button class="btn btn-sfd">Schedule</button></a></li>
                         <li><a href="#"><button class="btn btn-sfd">Schedule</button></a></li>
-                        <li><a href="code-of-conduct"><button class="btn btn-sfd">Code of Conduct</button></a></li>
+                        <li><a href="{{ site.url }}/code-of-conduct"><button class="btn btn-sfd">Code of Conduct</button></a></li>
                         <li><a href="#"><button class="btn btn-sfd btn-donate">Donate</button></a></li>
                     </ul>
 
@@ -56,7 +56,7 @@
             </div><!-- /.container-fluid -->
         </nav>
 
-        <div class="container">
+        <div class="container content">
             {{ content }}
         </div>
 
