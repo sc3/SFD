@@ -1,18 +1,11 @@
 
-
 .content {
   margin-top: 500px;
 }
 
 /* common styles for all buttons in the website */
 .btn-sfd {
-  margin: 5px;
   background-color: rgb(158, 206, 64);
-
-}
-
-.btn-sfd a {
-  color: #ffffff;
 }
 
 /* styles to make the "Donate" btn orange */
@@ -20,5 +13,5 @@
   background-color: rgb(255, 181, 21);
 
   /* this is so the floating left won't take it off canvas */
-  margin-right: 20px;
+  margin-right: 10px;
 }
