@@ -1,5 +1,7 @@
 #!/bin/bash
+
 git checkout gh-pages
 git rebase master
 git push $1 gh-pages
 echo "Info: Yo are on branch gh-pages"
+
