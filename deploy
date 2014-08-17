@@ -1,5 +1,8 @@
 #!/bin/bash
+
 git checkout gh-pages
 git rebase master
 git push $1 gh-pages
 echo "Info: Yo are on branch gh-pages"
+
+git push https://github.com/sc3/sc3.github.io master
