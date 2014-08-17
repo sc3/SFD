@@ -1,8 +1,8 @@
 
 .content {
 
-  /* TODO: remove me */
-  margin-top: 500px;
+  margin-top: 80px;
+
 }
 
 /* common styles for all buttons in the website */
@@ -16,4 +16,10 @@
 
   /* this is so the floating left won't take it off canvas */
   margin-right: 10px;
+}
+
+#img-slider img {
+
+  max-height: 500px;
+
 }
