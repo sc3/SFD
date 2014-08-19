@@ -114,5 +114,4 @@
     sfd_slider.down();
   });
 
-
 }(window));
