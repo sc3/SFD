@@ -10,12 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="800"
-   height="360"
+   width="1200"
+   height="480"
    id="svg5875"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="banner.svg"
+   inkscape:export-filename="/home/jslater/Software_FreeGeek/SFD/static/2014/images/cover/banner2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs5877">
     <clipPath
@@ -1046,16 +1049,16 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#333333"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="575"
-     inkscape:cy="180.01443"
+     inkscape:cx="613.55653"
+     inkscape:cy="354.24541"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g9534"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="726"
@@ -1078,73 +1081,67 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-692.36217)">
+     transform="translate(0,-572.36217)"
+     style="display:inline">
     <g
        style="display:inline"
        id="g14592"
-       transform="translate(-82.57415,2412.9256)">
-      <rect
-         y="-1720.8335"
-         x="82.757492"
-         height="360"
-         width="800"
-         id="rect9532"
-         style="fill:#333333;fill-opacity:1;stroke:none" />
+       transform="matrix(1.3315823,0,0,1.3315823,-49.95428,2864.0643)">
       <text
          xml:space="preserve"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          x="616.76056"
-         y="-1531.6433"
+         y="-1534.6472"
          id="text11005"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan11007"
            x="616.76056"
-           y="-1531.6433"
+           y="-1534.6472"
            style="font-size:14px;fill:#ffffff">FreeGeek's Third Annual</tspan><tspan
            sodipodi:role="line"
            x="616.76056"
-           y="-1514.1433"
+           y="-1517.1472"
            style="font-size:14px;fill:#ffffff"
            id="tspan11500">Free/Libre Software Celebration</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          x="616.46973"
-         y="-1550.6433"
+         y="-1553.6472"
          id="text11009"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan11011"
            x="616.46973"
-           y="-1550.6433"
+           y="-1553.6472"
            style="font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff">What:</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text11013"
-         y="-1482.6433"
+         y="-1485.6472"
          x="616.46973"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          xml:space="preserve"><tspan
            style="font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff"
-           y="-1482.6433"
+           y="-1485.6472"
            x="616.46973"
            id="tspan11015"
            sodipodi:role="line">When:</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text11017"
-         y="-1463.6433"
+         y="-1466.6472"
          x="616.76056"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          xml:space="preserve"><tspan
            style="font-size:14px;fill:#ffffff"
-           y="-1463.6433"
+           y="-1466.6472"
            x="616.76056"
            id="tspan11019"
            sodipodi:role="line">Saturday, Sept 20th 2014</tspan><tspan
            style="font-size:14px;fill:#ffffff"
-           y="-1446.1433"
+           y="-1449.1472"
            x="616.76056"
            sodipodi:role="line"
            id="tspan11021">9:00AM to 5:00PM</tspan></text>
@@ -1152,13 +1149,13 @@
          xml:space="preserve"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          x="616.46973"
-         y="-1410.6433"
+         y="-1413.6472"
          id="text11023"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan11025"
            x="616.46973"
-           y="-1410.6433"
+           y="-1413.6472"
            style="font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff">Where:</tspan></text>
       <image
          y="-1591.3933"
@@ -1169,7 +1166,7 @@
          width="516.75"
          style="filter:url(#filter14530)"
          clip-path="url(#clipPath14926)"
-         transform="translate(0,-0.49629414)" />
+         transform="translate(0,-3.50024)" />
       <image
          style="display:inline;filter:url(#filter18644)"
          y="-1589.986"
@@ -1178,21 +1175,15 @@
          xlink:href="file:///home/jslater/Documents_FreeGeek/pictures/2013-09-21,%20sfd/jg_soft_freedom_104.jpg"
          height="342.56757"
          width="513.85132"
-         clip-path="url(#clipPath6580)" />
+         clip-path="url(#clipPath6580)"
+         transform="translate(0,-3.003946)" />
       <g
          inkscape:label="Layer 1"
          id="g9534"
-         transform="translate(146.76386,-2074.8225)">
-        <rect
-           style="fill:#333333;fill-opacity:1;stroke:none"
-           id="rect9536"
-           width="800"
-           height="130"
-           x="-63.800304"
-           y="353.80511" />
+         transform="matrix(0.90313056,0,0,0.90313056,180.63693,-2037.6007)">
         <g
            id="g9538"
-           transform="matrix(0.92442312,0,0,0.92442312,-90.240586,52.862686)"
+           transform="matrix(0.92442312,0,0,0.92442312,-123.50206,56.188834)"
            style="fill:#ffffff">
           <path
              style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.25804853;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
@@ -1319,13 +1310,13 @@
            transform="matrix(0.94331037,-0.33191197,0.33191197,0.94331037,0,0)"
            sodipodi:linespacing="125%"
            id="text9588"
-           y="603.14893"
-           x="292.25006"
+           y="616.68719"
+           x="315.69482"
            style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
            xml:space="preserve"><tspan
              style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-             y="603.14893"
-             x="292.25006"
+             y="616.68719"
+             x="315.69482"
              id="tspan9590"
              sodipodi:role="line">PRESENTS!</tspan></text>
       </g>
@@ -1333,19 +1324,19 @@
          xml:space="preserve"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          x="616.76056"
-         y="-1391.6433"
+         y="-1394.6472"
          id="text11492"
          sodipodi:linespacing="125%"><tspan
            id="tspan11496"
            sodipodi:role="line"
            x="616.76056"
-           y="-1391.6433"
+           y="-1394.6472"
            style="font-size:14px;fill:#ffffff">3411 W Diversey Ave, Chicago IL 60647</tspan></text>
       <g
          inkscape:export-ydpi="19.120001"
          inkscape:export-xdpi="19.120001"
          inkscape:export-filename="/home/fred/SFI/SFD'11/logo/logo.png"
-         transform="matrix(0.72540867,0,0,0.72540867,-732.1522,-2755.2705)"
+         transform="matrix(0.72540867,0,0,0.72540867,-732.1522,-2758.2745)"
          id="g4729"
          style="display:inline">
         <g
@@ -1423,10 +1414,10 @@
              id="g4425">
             <polygon
                id="polygon4427"
-               points="1421.686,1218.509 1421.684,1218.509 1421.512,1219.291 " />
+               points="1421.684,1218.509 1421.512,1219.291 1421.686,1218.509 " />
             <polygon
                id="polygon4429"
-               points="1434.922,1218.509 1437.192,1208.483 1427.333,1208.483 1425.147,1218.509 " />
+               points="1425.147,1218.509 1434.922,1218.509 1437.192,1208.483 1427.333,1208.483 " />
             <path
                id="path4431"
                d="m 1439.651,1188.72 c -1.691,-0.52 -3.67,-0.781 -5.939,-0.781 -5.951,0 -10.566,1.59 -13.844,4.766 -3.279,3.18 -5.549,7.672 -6.809,13.479 l -7.865,35.829 c -0.406,1.92 -0.922,3.986 -1.553,6.205 -0.447,1.572 -0.979,3.113 -1.551,4.643 h 11.324 c 1.285,-3.688 2.506,-8.141 3.656,-13.395 l 4.387,-19.93 0.055,-0.244 0.172,-0.782 h 0 l 2.215,-10.025 h -0.023 l 0.453,-2.137 c 0.504,-2.301 1.426,-4.217 2.762,-5.752 1.334,-1.533 3.393,-2.301 6.164,-2.301 1.01,0 2.105,0.123 3.291,0.369 1.186,0.246 2.232,0.617 3.141,1.109 l 3.781,-9.615 c -0.858,-0.438 -2.13,-0.917 -3.819,-1.438 z"
@@ -1910,11 +1901,11 @@
              style="fill:url(#linearGradient14823);fill-opacity:1">
             <polygon
                id="polygon4621"
-               points="1421.686,1218.509 1421.684,1218.509 1421.512,1219.291 "
+               points="1421.684,1218.509 1421.512,1219.291 1421.686,1218.509 "
                style="fill:url(#linearGradient14817);fill-opacity:1" />
             <polygon
                id="polygon4623"
-               points="1425.147,1218.509 1434.922,1218.509 1437.192,1208.483 1427.333,1208.483 "
+               points="1427.333,1208.483 1425.147,1218.509 1434.922,1218.509 1437.192,1208.483 "
                style="fill:url(#linearGradient14819);fill-opacity:1" />
             <path
                id="path4625"
@@ -1985,13 +1976,13 @@
           <polygon
              transform="translate(-21.747729,935.44961)"
              id="polygon4651"
-             points="1434.922,547.994 1437.192,537.969 1427.333,537.969 1425.147,547.994 "
+             points="1425.147,547.994 1434.922,547.994 1437.192,537.969 1427.333,537.969 "
              style="fill:url(#linearGradient14849)" />
         </g>
       </g>
       <path
-         style="fill:none;stroke:#ffffff;stroke-width:2.2380569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 605.03378,-1589.0592 277.77382,0"
+         style="fill:none;stroke:#ffffff;stroke-width:2.19038725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 616.78783,-1592.0632 266.06693,0"
          id="path18650"
          inkscape:connector-curvature="0" />
     </g>
