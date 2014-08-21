@@ -16,10 +16,15 @@ body {
 /* styles to make the "Donate" btn orange */
 .btn-donate {
   background-color: rgb(255, 181, 21);
-
   /* this is so the floating left won't take it off canvas */
   margin-right: 10px;
 }
+
+/* styles to make the Logo btn grey */
+.btn-main {
+  background-color: #333333;
+}
+
 
 #img-slider img {
 
