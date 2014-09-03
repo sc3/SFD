@@ -5,7 +5,7 @@ layout: sessions
 
 ### About Audacity
 
-Audacity is a free, easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. The interface is translated into many languages. You can use Audacity to:
+Audacity is a free, easy-to-use, multi-track audio editor and recorder for GNU/Linux, Mac OS X, Windows, and other operating systems. The interface is translated into many languages. You can use Audacity to:
 
 - Record live audio.
 - Record computer playback on any Windows Vista or later machine.
